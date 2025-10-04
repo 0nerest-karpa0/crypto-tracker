@@ -30,3 +30,37 @@ C:\Shostak Valily\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.pdb
 C:\Shostak Valily\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.genruntimeconfig.cache
 C:\Shostak Valily\crytoTracker\crytoTracker\obj\Debug\net8.0\ref\crytoTracker.dll
 C:\Shostak Valily\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\appsettings.Development.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\appsettings.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.staticwebassets.runtime.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.staticwebassets.endpoints.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.exe
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.deps.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.runtimeconfig.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.dll
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\bin\Debug\net8.0\crytoTracker.pdb
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.AssemblyInfoInputs.cache
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.AssemblyInfo.cs
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.csproj.CoreCompileInputs.cache
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.MvcApplicationPartsAssemblyInfo.cache
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.sourcelink.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\bundle\crytoTracker.styles.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\projectbundle\crytoTracker.bundle.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets.build.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets.development.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets\msbuild.crytoTracker.Microsoft.AspNetCore.StaticWebAssets.props
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets\msbuild.crytoTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets\msbuild.build.crytoTracker.props
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.crytoTracker.props
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.crytoTracker.props
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets.pack.json
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.dll
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\refint\crytoTracker.dll
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.pdb
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.genruntimeconfig.cache
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\ref\crytoTracker.dll

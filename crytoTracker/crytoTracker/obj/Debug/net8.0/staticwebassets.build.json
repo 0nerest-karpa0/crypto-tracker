@@ -1,1 +1,331 @@
-{"Version":1,"Hash":"iuE3OpzjXa4DGFGov6P43vr2f7Ndg18wLD3fNEw3M0A=","Source":"crytoTracker","BasePath":"_content/crytoTracker","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"crytoTracker\\wwwroot","Source":"crytoTracker","ContentRoot":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\wwwroot\\","BasePath":"_content/crytoTracker","Pattern":"**"}],"Assets":[{"Identity":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css","SourceId":"crytoTracker","SourceType":"Computed","ContentRoot":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\","BasePath":"_content/crytoTracker","RelativePath":"crytoTracker#[.{fingerprint}]?.styles.css","AssetKind":"All","AssetMode":"CurrentProject","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"ScopedCss","AssetTraitValue":"ApplicationBundle","Fingerprint":"g9vt8x9sl7","Integrity":"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css","FileLength":671,"LastWriteTime":"2025-09-27T13:25:46+00:00"},{"Identity":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css","SourceId":"crytoTracker","SourceType":"Computed","ContentRoot":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\","BasePath":"_content/crytoTracker","RelativePath":"crytoTracker#[.{fingerprint}]!.bundle.scp.css","AssetKind":"All","AssetMode":"Reference","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"ScopedCss","AssetTraitValue":"ProjectBundle","Fingerprint":"g9vt8x9sl7","Integrity":"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css","FileLength":671,"LastWriteTime":"2025-09-27T13:25:46+00:00"},{"Identity":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\wwwroot\\app.css","SourceId":"crytoTracker","SourceType":"Discovered","ContentRoot":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\wwwroot\\","BasePath":"_content/crytoTracker","RelativePath":"app#[.{fingerprint}]?.css","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"9tsjre4pz5","Integrity":"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\app.css","FileLength":2154,"LastWriteTime":"2025-09-27T13:06:01+00:00"}],"Endpoints":[{"Route":"app.9tsjre4pz5.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\wwwroot\\app.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:06:01 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"9tsjre4pz5"},{"Name":"label","Value":"app.css"},{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="}]},{"Route":"app.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\wwwroot\\app.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:06:01 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="}]},{"Route":"crytoTracker.bundle.scp.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:25:46 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo="}]},{"Route":"crytoTracker.g9vt8x9sl7.bundle.scp.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:25:46 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"g9vt8x9sl7"},{"Name":"label","Value":"crytoTracker.bundle.scp.css"},{"Name":"integrity","Value":"sha256-hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo="}]},{"Route":"crytoTracker.g9vt8x9sl7.styles.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:25:46 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"g9vt8x9sl7"},{"Name":"label","Value":"crytoTracker.styles.css"},{"Name":"integrity","Value":"sha256-hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo="}]},{"Route":"crytoTracker.styles.css","AssetFile":"C:\\Shostak Valily\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo=\""},{"Name":"Last-Modified","Value":"Sat, 27 Sep 2025 13:25:46 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-hP8IyhT9wYRm/YpuyuiqJNe62vpKvYTbDrfMM9u/Eoo="}]}]}
+{
+  "Version": 1,
+  "Hash": "/R04gZtGR3ok7V6pY/gFOw1+qF11VkpEb154xfiWB8I=",
+  "Source": "crytoTracker",
+  "BasePath": "_content/crytoTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "crytoTracker\\wwwroot",
+      "Source": "crytoTracker",
+      "ContentRoot": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\wwwroot\\",
+      "BasePath": "_content/crytoTracker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css",
+      "SourceId": "crytoTracker",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/crytoTracker",
+      "RelativePath": "crytoTracker#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "v1al7slne5",
+      "Integrity": "I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css"
+    },
+    {
+      "Identity": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
+      "SourceId": "crytoTracker",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/crytoTracker",
+      "RelativePath": "crytoTracker#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "v1al7slne5",
+      "Integrity": "I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\wwwroot\\app.css",
+      "SourceId": "crytoTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\wwwroot\\",
+      "BasePath": "_content/crytoTracker",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hpw61uln5",
+      "Integrity": "Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.1hpw61uln5.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 08:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hpw61uln5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 08:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.bundle.scp.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 09:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.styles.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 09:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.v1al7slne5.bundle.scp.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 09:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1al7slne5"
+        },
+        {
+          "Name": "label",
+          "Value": "crytoTracker.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.v1al7slne5.styles.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Oct 2025 09:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v1al7slne5"
+        },
+        {
+          "Name": "label",
+          "Value": "crytoTracker.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="
+        }
+      ]
+    }
+  ]
+}

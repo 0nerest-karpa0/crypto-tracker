@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/crytoTracker/app.1hpw61uln5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1hpw61uln5"},{"Name":"integrity","Value":"sha256-Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4="},{"Name":"label","Value":"_content/crytoTracker/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2183"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Oct 2025 08:44:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/crytoTracker/app.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2183"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Oct 2025 08:44:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/crytoTracker/crytoTracker.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.v1al7slne5.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"834"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Oct 2025 09:05:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/crytoTracker/crytoTracker.v1al7slne5.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.v1al7slne5.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v1al7slne5"},{"Name":"integrity","Value":"sha256-I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk="},{"Name":"label","Value":"_content/crytoTracker/crytoTracker.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"834"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022I42Swc84F3IoPhxZ82bHJVi8uoVhZOj/FrWd9MJe5bk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Oct 2025 09:05:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Shostak Valily\\crytoTracker\\",
+  "WorkspaceRootPath": "E:\\asp\\crypto-tracker\\crytoTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|c:\\shostak valily\\crytotracker\\crytotracker\\components\\blocks\\currencyveiwer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\currencyveiwer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\currencyveiwer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|c:\\shostak valily\\crytotracker\\crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|c:\\shostak valily\\crytotracker\\crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CurrencyVeiwer.razor",
-              "DocumentMoniker": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "ToolTip": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Title": "Graph.razor",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\Graph.razor",
+              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\Graph.razor",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\Graph.razor",
+              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\Graph.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T13:23:28.4Z",
+              "WhenOpened": "2025-10-04T10:34:20.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "crytoTracker\\Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
               "RelativeToolTip": "crytoTracker\\Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-27T13:13:08.01Z",
+              "WhenOpened": "2025-10-04T08:10:12.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "crytoTracker\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Shostak Valily\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "crytoTracker\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T13:06:21.481Z",
+              "WhenOpened": "2025-10-01T12:17:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyVeiwer.razor",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
+              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
+              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:10:18.739Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crytoTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92de2a9a470237e4780d7fb311c3d200ae82ee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("crytoTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crytoTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
