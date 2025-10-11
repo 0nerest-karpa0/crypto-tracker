@@ -7,8 +7,9 @@ namespace crytoTracker
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
             // Add services to the container.
+            builder.Services.AddScoped(sp=>new HttpClient {BaseAddress = new Uri("http://byteschool.online:3000/") });
+
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
 

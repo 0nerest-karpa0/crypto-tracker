@@ -1,32 +1,56 @@
-﻿<style>
+﻿@inject HttpClient client;
+
+<style>
     .currency-viewer {
-        background-color:white;
-        /* width: 21%; */
-        aspect-ratio: 2.15;
-        border-radius: 10px;
-        margin-bottom:5px;
-        margin-right:5px;
-        font-family:Arial;
-        /* font-size: 0.875rem; */
-        text-align:center;
-        /* padding-top:3px; */
+    background-color:white;
+    aspect-ratio: 3;
+    border-radius: 10px;
+    margin-bottom:5px;
+    margin-right:5px;
+    font-family:Arial;
+    text-align:center;
+
+    color: #1a202c;
+    border: 5px solid #553C9A
     }
 
-    .value{
-        color: #1a202c;
-        font-size: 1.875rem;
+    .rate-label {
+    display:flex;
+    width:100%;
+    height:100%;
 
+    justify-content:center;
+    align-items: center;
     }
 
-    .upper-text{
-        color: #1a202c;
-        font-size: 0.875rem;
+    .value {
+    font-size: 1.875rem;
+    }
+
+    .upper-text {
+    font-size: 0.875rem;
+    align-self:flex-start;
+    }
+
+    .delete-button {
+    position:relative;
+    bottom:3%;
+    border:none;
+    background-color:transparent;
+    }
+
+    .delete-button:active{
+    color:red;
     }
 </style>
 
-<div class="currency-viewer">
+<div class="currency-viewer" @onclick=OnClick style=@style>
     <label class="upper-text">@TickerSymbolOriginal – @TickerSymbolConverted</label>
-    <label class="value">0.0</label>
+    <div class="rate-label">
+        <label class="value">0.0</label>
+    </div>
+
+    <button class="delete-button">Удалить</button>
 </div>
 
 @code {
@@ -36,10 +60,20 @@
     [Parameter]
     public string TickerSymbolConverted { get; set; } = "";
 
-
-    bool isSelected = false;
+    string style = "border:none";
 
     private void OnClick(){
-        isSelected = !isSelected;
+        if (style == "border:none")
+        {
+            style = "";
+        }
+        else{
+            style = "border:none";
+        }
+    }
+
+    protected override Task OnInitializedAsync()
+    {
+        return base.OnInitializedAsync();
     }
 }

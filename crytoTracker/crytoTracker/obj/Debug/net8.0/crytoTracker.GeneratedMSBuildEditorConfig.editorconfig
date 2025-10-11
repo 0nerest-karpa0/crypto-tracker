@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcR3JhcGgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/TokenSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcVG9rZW5TZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

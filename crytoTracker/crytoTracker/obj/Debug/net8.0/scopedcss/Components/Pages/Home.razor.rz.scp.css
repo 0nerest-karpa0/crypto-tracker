@@ -1,11 +1,12 @@
 .container[b-ol4lulmeto] {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    position: absolute;
+    position: relative;
     background-color: #e2e8f0;
     width: 70%;
     left: 50%;
     transform: translate(-50%);
     padding-top: 10px;
     padding-left: 3px;
+    padding-right: 3px;
 }

@@ -1,18 +1,23 @@
 ﻿@page "/"
 @using crytoTracker.Components.Blocks
+@inject HttpClient client
+
+<TokenSelector Tickers=@tickers/>
 
 <div class="container">
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
-    <CurrencyVeiwer TickerSymbolOriginal ="USD" TickerSymbolConverted="RUB"/>
+    @foreach(string ticker in tickersName){
+        <CurrencyVeiwer TickerSymbolConverted=@ticker></CurrencyVeiwer>
+    }
 </div>
+
+<Graph/>
+
+@code{
+    public string[] tickers = [];
+    List<string> tickersName = new List<string>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        tickers = await client.GetFromJsonAsync<string[]>("Cryptocurrency/tickers");
+    }
+}
