@@ -1,0 +1,37 @@
+.token-selector[b-1coxzj7mce] {
+    width: 70%;
+    background-color: #e2e8f0;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    padding-top: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 10px;
+    font-family: Arial;
+}
+
+.token-selector > input[b-1coxzj7mce] {
+    width: 20%;
+    border-radius: 3.5px;
+    border: none;
+}
+
+.ticker-name-button[b-1coxzj7mce] {
+    border: none;
+    background-color: white;
+    border-radius: 3.5px;
+    margin: 2px;
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.button-collection[b-1coxzj7mce] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.error-text[b-1coxzj7mce] {
+    color: red;
+}

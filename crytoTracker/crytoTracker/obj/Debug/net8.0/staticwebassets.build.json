@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZCJkfQeUAVZjEEKDRWwfN44ySd3D5a9cHxo1/+93LFY=",
+  "Hash": "zcZwNZsuDiI5DJF7kZqkGld7lTlJPaHqPB+c2WW4AcM=",
   "Source": "crytoTracker",
   "BasePath": "_content/crytoTracker",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "60nwrnxrm8",
-      "Integrity": "ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=",
+      "Fingerprint": "jj7dwi7x6o",
+      "Integrity": "kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "60nwrnxrm8",
-      "Integrity": "ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=",
+      "Fingerprint": "jj7dwi7x6o",
+      "Integrity": "kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css"
@@ -164,96 +164,6 @@
       ]
     },
     {
-      "Route": "crytoTracker.60nwrnxrm8.bundle.scp.css",
-      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "859"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 15:35:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "60nwrnxrm8"
-        },
-        {
-          "Name": "label",
-          "Value": "crytoTracker.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="
-        }
-      ]
-    },
-    {
-      "Route": "crytoTracker.60nwrnxrm8.styles.css",
-      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "859"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 15:35:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "60nwrnxrm8"
-        },
-        {
-          "Name": "label",
-          "Value": "crytoTracker.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="
-        }
-      ]
-    },
-    {
       "Route": "crytoTracker.bundle.scp.css",
       "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
       "Selectors": [],
@@ -264,7 +174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "859"
+          "Value": "3362"
         },
         {
           "Name": "Content-Type",
@@ -272,11 +182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\""
+          "Value": "\"kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 15:35:04 GMT"
+          "Value": "Sat, 18 Oct 2025 08:20:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -286,7 +196,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="
+          "Value": "sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.jj7dwi7x6o.bundle.scp.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\crytoTracker.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 08:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jj7dwi7x6o"
+        },
+        {
+          "Name": "label",
+          "Value": "crytoTracker.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="
+        }
+      ]
+    },
+    {
+      "Route": "crytoTracker.jj7dwi7x6o.styles.css",
+      "AssetFile": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\crytoTracker.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 08:20:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jj7dwi7x6o"
+        },
+        {
+          "Name": "label",
+          "Value": "crytoTracker.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="
         }
       ]
     },
@@ -301,7 +301,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "859"
+          "Value": "3362"
         },
         {
           "Name": "Content-Type",
@@ -309,11 +309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\""
+          "Value": "\"kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Oct 2025 15:35:04 GMT"
+          "Value": "Sat, 18 Oct 2025 08:20:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -323,7 +323,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="
+          "Value": "sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="
         }
       ]
     }

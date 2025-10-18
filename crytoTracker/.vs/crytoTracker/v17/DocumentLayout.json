@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "E:\\asp\\crypto-tracker\\crytoTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\tokenselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\tokenselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\currencyveiwer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\currencyveiwer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\currencyviewercollection.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\currencyviewercollection.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|e:\\asp\\crypto-tracker\\crytotracker\\crytotracker\\components\\blocks\\currencyviewercollection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462C43C5-8E4C-41B5-8540-FFE7F804093B}|crytoTracker\\crytoTracker.csproj|solutionrelative:crytotracker\\components\\blocks\\currencyviewercollection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,67 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrencyVeiwer.razor",
-              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\CurrencyVeiwer.razor",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T10:38:35.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Graph.razor",
-              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\Graph.razor",
-              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\Graph.razor",
-              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\Graph.razor",
-              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\Graph.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T09:34:57.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TokenSelector.razor",
               "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\TokenSelector.razor",
               "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\TokenSelector.razor",
               "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\TokenSelector.razor",
               "RelativeToolTip": "crytoTracker\\Components\\Blocks\\TokenSelector.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-11T08:32:25.159Z",
+              "WhenOpened": "2025-10-18T09:20:19.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyViewerCollection.razor.css",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor.css",
+              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor.css",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor.css",
+              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T08:43:51.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CurrencyViewerCollection.razor",
+              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor",
+              "RelativeDocumentMoniker": "crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor",
+              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor",
+              "RelativeToolTip": "crytoTracker\\Components\\Blocks\\CurrencyViewerCollection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T08:43:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "crytoTracker\\Components\\Pages\\Home.razor",
               "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "crytoTracker\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T12:17:09.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.razor.css",
-              "DocumentMoniker": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
-              "RelativeDocumentMoniker": "crytoTracker\\Components\\Pages\\Home.razor.css",
-              "ToolTip": "E:\\asp\\crypto-tracker\\crytoTracker\\crytoTracker\\Components\\Pages\\Home.razor.css",
-              "RelativeToolTip": "crytoTracker\\Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-06T14:43:08.867Z",
               "EditorCaption": ""
             }
           ]

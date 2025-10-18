@@ -1,20 +1,14 @@
 ﻿@page "/"
 @using crytoTracker.Components.Blocks
 @inject HttpClient client
-
-<TokenSelector Tickers=@tickers/>
-
-<div class="container">
-    @foreach(string ticker in tickersName){
-        <CurrencyVeiwer TickerSymbolConverted=@ticker></CurrencyVeiwer>
-    }
-</div>
+<TokenSelector Tickers="tickers" DisplayedTickers="strings"/>
+<CurrencyViewerCollection tickersName="strings"></CurrencyViewerCollection>
 
 <Graph/>
 
 @code{
+    List<string> strings = new List<string>() {};
     public string[] tickers = [];
-    List<string> tickersName = new List<string>();
 
     protected override async Task OnInitializedAsync()
     {

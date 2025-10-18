@@ -24,18 +24,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/CurrencyVeiwer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcQ3VycmVuY3lWZWl3ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/Graph.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcR3JhcGgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/TokenSelector.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcVG9rZW5TZWxlY3Rvci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -47,6 +35,22 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
+
+[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/CurrencyViewer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcQ3VycmVuY3lWaWV3ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eeyhb8107g
+
+[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/CurrencyViewerCollection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcQ3VycmVuY3lWaWV3ZXJDb2xsZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-qt4z3eqnz6
+
+[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/Graph.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcR3JhcGgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wzbr7k4vsr
+
+[E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Blocks/TokenSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCbG9ja3NcVG9rZW5TZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1coxzj7mce
 
 [E:/asp/crypto-tracker/crytoTracker/crytoTracker/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==

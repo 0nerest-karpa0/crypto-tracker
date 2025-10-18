@@ -1,45 +1,5 @@
-﻿<style>
-    .token-selector {
-    width: 70%;
-    background-color: #e2e8f0;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%);
-    padding-top: 10px;
-    padding-left: 3px;
-    padding-right: 3px;
-    padding-bottom: 10px;
-    font-family: Arial;
-    }
-
-    .token-selector > input {
-    width: 20%;
-    border-radius: 3.5px;
-    border:none;
-    }
-
-    .ticker-name-button{
-    border:none;
-    background-color:white;
-    border-radius:3.5px;
-    margin:2px;
-    padding:1px;
-    padding-left:5px;
-    padding-right:5px;
-    }
-
-    .button-collection{
-    margin-top:10px;
-    margin-bottom:10px;
-    }
-
-    .error-text{
-    color:red;
-    }
-</style>
-
-<div class="token-selector">
-    <input @oninput= "TextChanged" @onselect= "TickerEntered" type="text" placeholder="Введите название тикера"/>
+﻿<div class="token-selector">
+    <input @oninput="TextChanged" type="text" placeholder="Введите название тикера" @on/>
     <div class="button-collection">
         @foreach(string ticker in top5Tickers)
         {
@@ -55,6 +15,12 @@
 @code {
     [Parameter]
     public string[] Tickers { get; set; }
+
+    [Parameter]
+    public List<string> DisplayedTickers { get; set; }
+
+    // [Parameter]
+    // public EventCallback OnTickerSelected { get; set; }
 
     private List<string> filteredTickers = [];
     private string[] top5Tickers = [];
@@ -87,9 +53,8 @@
 
         showErrorText = top5Tickers.Length == 0;
     }
-
-    private void TickerEntered()
+    private void OnTickerSelected(ChangeEventArgs e)
     {
-        string ticker = top5Tickers[0];
+        DisplayedTickers.Add(top5Tickers[0]);
     }
 }

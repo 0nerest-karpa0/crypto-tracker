@@ -1,0 +1,39 @@
+﻿.currency-viewer {
+    background-color: white;
+    aspect-ratio: 3;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-family: Arial;
+    text-align: center;
+    color: #1a202c;
+    border: 5px solid #553C9A
+}
+
+.rate-label {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.value {
+    font-size: 1.875rem;
+}
+
+.upper-text {
+    font-size: 0.875rem;
+    align-self: flex-start;
+}
+
+.delete-button {
+    position: relative;
+    bottom: 3%;
+    border: none;
+    background-color: transparent;
+}
+
+.delete-button:active {
+    color: red;
+}

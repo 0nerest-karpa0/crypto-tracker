@@ -64,3 +64,7 @@ E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\refint\crytoTra
 E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.pdb
 E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\crytoTracker.genruntimeconfig.cache
 E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\ref\crytoTracker.dll
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Blocks\Graph.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Blocks\CurrencyViewer.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Blocks\TokenSelector.razor.rz.scp.css
+E:\asp\crypto-tracker\crytoTracker\crytoTracker\obj\Debug\net8.0\scopedcss\Components\Blocks\CurrencyViewerCollection.razor.rz.scp.css

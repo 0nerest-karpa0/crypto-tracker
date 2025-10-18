@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2183"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Cy3KDZSdJ8DexbOTVYenNxo3wVHUUj/jYz9Y3IvyXs4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Oct 2025 08:44:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/crytoTracker/crytoTracker.60nwrnxrm8.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.60nwrnxrm8.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"60nwrnxrm8"},{"Name":"integrity","Value":"sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="},{"Name":"label","Value":"_content/crytoTracker/crytoTracker.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Oct 2025 15:35:04 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/crytoTracker/crytoTracker.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.60nwrnxrm8.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.jj7dwi7x6o.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ijxIVS7DA6LRR9hJfFgc99XplyagkZsH38XjIvcei4Q=\u0022"},{"Name":"Last-Modified","Value":"Mon, 06 Oct 2025 15:35:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 08:20:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/crytoTracker/crytoTracker.jj7dwi7x6o.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\crytoTracker.jj7dwi7x6o.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jj7dwi7x6o"},{"Name":"integrity","Value":"sha256-kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ="},{"Name":"label","Value":"_content/crytoTracker/crytoTracker.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kUD9xKQHrQXTOjukglKoSMnlBEBWRZjtEhMHlyXV/FQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 08:20:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

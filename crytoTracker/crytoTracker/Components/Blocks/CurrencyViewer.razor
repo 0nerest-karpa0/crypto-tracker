@@ -1,0 +1,33 @@
+﻿@inject HttpClient client
+
+<div class="currency-viewer" @onclick=OnClick style=@style>
+    <label class="upper-text">@Ticker - USD</label>
+    <div class="rate-label">
+        <label class="value">@rate</label>
+    </div>
+
+    <button class="delete-button">Удалить</button>
+</div>
+
+@code {
+    [Parameter]
+    public string Ticker { get; set; } = "";
+
+    string style = "border:none";
+    double rate = 0.0;
+
+    private void OnClick(){
+        if (style == "border:none")
+        {
+            style = "";
+        }
+        else{
+            style = "border:none";
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        rate = await client.GetFromJsonAsync<double>($"Cryptocurrency/{Ticker}");
+    }
+}
